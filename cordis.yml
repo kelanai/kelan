@@ -1,0 +1,6 @@
+# Composition for the kelan CLI. The launcher mounts only the Loader; every
+# capability below is an ordinary plugin entry, so changing what kelan can do
+# is a change to this file rather than to any code path.
+
+- id: hello
+  name: './src/plugins/hello.js'
