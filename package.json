@@ -4,9 +4,9 @@
   "description": "A plugin-based agent harness built on the Cordis plugin runtime.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BeaverAIme/kelan.git"
+    "url": "git+https://github.com/kelanai/kelan.git"
   },
-  "homepage": "https://github.com/BeaverAIme/kelan#readme",
+  "homepage": "https://github.com/kelanai/kelan#readme",
   "license": "MIT",
   "type": "module",
   "bin": {
